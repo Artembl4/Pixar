@@ -1,0 +1,94 @@
+.backimage {
+    background-image: url(img/red.jpg);
+    background-color: #c7b39b;
+    width: 1500px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    margin-top: -370px;
+    margin-left: 200px;
+}
+.bg {
+   background-color: gray;
+}
+.text_1 {
+    margin-left: 1000px;
+    margin-bottom: 200px;
+    margin-top: -180px;
+    text-decoration: none;
+}
+.text_2 {
+    margin-left: 1250px;
+    margin-top: -220px;
+    margin-bottom: 350px;
+    text-decoration: none;
+}
+.text_3 {
+    margin-left: 1500px;
+    margin-top: -370px;
+    margin-bottom: 400px;
+    font-family: monospace;
+    text-decoration: none;
+}
+.image {
+    width: 300px;
+}
+.div {
+    background-color: lightgray;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-bottom: -100px;
+}
+.button1 {
+    margin-bottom: 150px;
+   /* background-color: lightgray;*/
+    font-family: monospace;
+    text-decoration: none;
+}
+.button {
+    /*background-color: lightgray;*/
+    font-family: monospace;
+    text-decoration: none;
+}
+.button2 {
+   /* background-color: lightgray;*/
+    font-family: monospace;
+    text-decoration: none;
+}
+.img {
+    margin-left: 450px;
+    margin-top: -100px;
+}
+.buton {
+    background-color: gray;
+}
+.text_4 {
+    font-family: monospace;
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+.img1 {
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+.img2 {
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.img3 {
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.end {
+    background-color: lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.h2 {
+    text-align: center;
+    font-family: monospace;
+    
+}
